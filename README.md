@@ -3,6 +3,9 @@
 # ⚡️ SplitWatts (AC Bill Splitter Deluxe)
 
 **The fairest way to split the electricity bill when your roommate refuses to use the AC.** 🥶
+<img width="670" height="895" alt="clipboard_2026-10-08_19-51" src="https://github.com/user-attachments/assets/1771e640-e30f-4650-8afd-f5aad2100456" />
+<img width="645" height="425" alt="clipboard_2026-10-08_19-53" src="https://github.com/user-attachments/assets/0f27b9d9-5192-45fc-b012-09db0a7004ef" />
+
 
 A sleek, dark-mode desktop app built with Python and CustomTkinter to calculate EXACTLY how much the AC user owes based on tiered (SLAB) electricity rates.
 
